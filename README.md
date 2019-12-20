@@ -9,7 +9,7 @@
 
 **Description** 
 
-I'm a Software Engineer, A UX Designer, A Systems Administrator and a SCRUM and Kanban Coach. I work best in a collaborative environments where feedback is both given and welcomed. People will reguarly review eachother's work as a team in a growth mindset format. I like to help facilitate to ensure things run on time. Although I'm friendly and silly, I am very task focused and like to implement and follow a process. To get work done I tend to need to avoid interuptions and aim to be places early so I can _crack on_. Headphones are super useful in this. From my German heritager I have a directness which is never intended as rude, but sometimes can come across that way. I always have the best intentions when offering feedback, and am learniong to do so in a less direct manner.
+I'm a Software Engineer, A UX Designer, A Systems Administrator and a SCRUM and Kanban Coach. I work best in a collaborative environments where feedback is both given and welcomed. People will reguarly review eachother's work as a team in a growth mindset format. I like to help facilitate to ensure things run on time. Although I'm friendly and silly, I am very task focused and like to implement and follow a process. To get work done I tend to need to avoid interuptions and aim to be places early so I can _crack on_. Headphones are super useful in this. From my German heritager I have a directness which is never intended as rude, but sometimes can come across that way. I always have the best intentions when offering feedback, and am learning to do so in a less direct manner.
 
 
 **Feedback**
