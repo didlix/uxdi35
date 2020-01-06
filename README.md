@@ -9,25 +9,29 @@
 
 **Description** 
 
-I'm a 
+I am a:
 
-- Software Engineer
-- A UX Designer
-- A Systems Administrator
-- A SCRUM and Kanban Coach. 
+* Software Engineer
+* A UX Designer 	
+* A Systems Administrator 	
+* A SCRUM and Kanban Coach
+* Yogi
+* Minimalist
+* Collaborator
 
-_I work best in a collaborative environments_ where feedback is given and welcomed. People will reguarly review eachother's work as a team in a growth mindset format. I like to help facilitate to ensure things run on time. Although I'm friendly and silly, I am very task focused and like to implement and follow a process. To get work done I tend to need to avoid interuptions and aim to be places early so I can _crack on_. Headphones are super useful in this. From my German heritager I have a directness which is never intended as rude, but sometimes can come across that way. I always have the best intentions when offering feedback, and am learning to do so in a less direct manner.
 
+I work best in a collaborative environments where feedback is given and welcomed. People will regularly review each other's work as a team in a growth mindset format. I like to help facilitate to ensure things run on time. Although I'm friendly and silly, I am very task focused and like to implement and follow a process. To get work done I tend to need to avoid interruptions and aim to be places early so I can crack on. Headphones are extremely useful in this. I have a directness which is never intended as rude, but sometimes can come across that way. I always have the best intentions when offering feedback, and am learning to do so in a less direct manner.
 
-**Feedback**
+### Feedback
 
-I like to work on collaborative documents where everyone is able to comment and leave feedback. Google Docs/Slides etc is great at this. In development Github has a thing called _pull requests_ which allow people to review and provide positive feedback. I believe this exists in Setch using Abstract. I am also happy to be given personal feedback in person. I recently listewned to a podcast on giving and receiving feedback, which encouraged us to use UX principles like asking "Tell me about the last time you felt this way" to help a person recall the last time. And to take it seriously, not just double down on an explanation of why something was the way it was.
+I like to work on collaborative documents where everyone is able to comment and leave feedback. Google Docs/Slides etc is great at this. In development Github has a feature called pull requests which allow people to review and provide positive feedback. I believe this exists in Sketch using Abstract. I am also happy to be given personal feedback in person. I recently listened to a podcast on giving and receiving feedback, which encouraged us to use UX principles like asking "tell me about the last time you felt this way" to help a person recall previous instances, and to take it seriously - not to simply double down on an explanation of why something was that way.
 
 In Summary:
 
-- Design Crits
-- Written feedback on collaborative sites like Google Docs.
+* Design	Crits 	
+* Written feedback on collaborative sites like Google Docs.
 
-**Learning**
 
-I like learning both on my own and in classroom environments. I have learned every which way, acadamia, books, youtube tutorials, talks, conferences, workshops and lunchtime learning cliubs.
+### Learning
+I like learning both on my own and in classroom environments. I have studied with a range of methods, including formal academia, books, youtube tutorials, talks & conferences, workshops and lunchtime learning clubs.
+
