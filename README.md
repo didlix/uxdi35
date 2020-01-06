@@ -30,4 +30,4 @@ In Summary:
 
 **Learning**
 
-I like learning both on my own and in classroom environments. I have learned every which way, acadamia, books, youtube tutorials, talks * conferences, workshops and lunchtime learning cliubs.
+I like learning both on my own and in classroom environments. I have learned every which way, acadamia, books, youtube tutorials, talks, conferences, workshops and lunchtime learning cliubs.
