@@ -3,24 +3,139 @@
 	<head>
 		<meta charset="utf-8">
 		<title>GA Press Release</title>
+		<style>
+
+			#wave {
+				xheight: 50px;
+				padding-top: 50px;
+				overflow: hidden;
+				box-shadow: 0px 0px 2px #888888;
+				width: 60px;
+			}
+
+			@keyframes example {
+				/* from { background-color: #ff0000; }
+				to { background-color: #0000ff; } */
+
+				0%   {  margin-top: 10px; background-color: red; }
+				10%  {  margin-top: 44px; }
+				20%  {  margin-top: 10px; background-color: orange; }
+				30%  {  margin-top: 44px; }
+				40%  {  margin-top: 10px; background-color: yellow; }
+				50%  {  margin-top: 44px; }
+				60%  {  margin-top: 10px; background-color: green; }
+				70%  {  margin-top: 44px; }
+				80%  {  margin-top: 10px; background-color: blue; }
+				90%  {  margin-top: 44px; }
+				100% {  margin-top: 10px; background-color: red; } 
+			}
+
+			@keyframes example2 {
+				/* from { background-color: #ff0000; }
+				to { background-color: #0000ff; } */
+
+				0%   { xheight: 10%; margin-top: 10px; background-color: red; }
+				/* x5%   { background-color: red; } */
+				10%  { xheight: 34%; margin-top: 44px; background-color: orange; }
+				/* 15%   { background-color: red; } */
+				20%  { xheight: 10%; margin-top: 10px; background-color: yellow; }
+				/* 25%   { background-color: red; } */
+				30%  { xheight: 34%; margin-top: 44px; background-color: green; }
+				/* 35%   { background-color: red; } */
+				40%  { xheight: 10%; margin-top: 10px; background-color: blue; }
+				/* 45%   { background-color: red; } */
+				50%  { xheight: 34%; margin-top: 44px; background-color: violet; }
+				/* 55%   { background-color: red; } */
+				60%  { xheight: 10%; margin-top: 10px; background-color: blue; }
+				/* 65%   { background-color: red; } */
+				70%  { xheight: 34%; margin-top: 44px; background-color: green; }
+				/* 75%   { background-color: red; } */
+				80%  { xheight: 10%; margin-top: 10px; background-color: yellow; }
+				/* 85%   { background-color: red; } */
+				90%  { xheight: 34%; margin-top: 44px; background-color: orange; }
+				/* 95%   { background-color: red; } */
+				100% { xheight: 10%; margin-top: 10px; background-color: red; } 
+			}
+
+			span {
+				height: 0;
+				padding-top: 80px;
+				overflow: hidden;
+				display: block;
+				position: relative;
+			}
+			span:hover {
+				cursor: pointer;
+			}
+
+			span div:nth-of-type(1) { left: 10px; }
+			span div:nth-of-type(2) { left: 20px; }
+			span div:nth-of-type(3) { left: 30px; }
+			span div:nth-of-type(4) { left: 40px; }
+			span div:nth-of-type(5) { left: 50px; }
+
+			span:hover div:nth-of-type(1) {
+    			animation: example 8s -12s linear infinite;
+			}
+
+			span:hover div:nth-of-type(2) {
+    			animation: example 8s -9s linear infinite;
+			}
+
+			span:hover div:nth-of-type(3) {
+    			animation: example 8s -6s linear infinite;
+			}
+
+			span:hover div:nth-of-type(4) {
+    			animation: example 8s -3s linear infinite;
+			}			
+
+			span:hover div:nth-of-type(5) {
+    			animation: example 8s 0s linear infinite;
+			}
+
+
+			span div {
+				top:30%;
+				position: absolute;
+				height: 100px;
+				background-color: #ff0000;
+				width: 5px;
+				border-radius: 3px;
+				height: 100px;
+			}
+		</style>
+
 	</head>
 	<body>
-		For Immediate Release
+	
+	<div id="wave">
+		<span>
+			<div>&nbsp;</div>
+			<div>&nbsp;</div>
+			<div>&nbsp;</div>
+			<div>&nbsp;</div>
+			<div>&nbsp;</div>
+		</span>
+	</div>
+		<!-- <h1>For Immediate Release</h1>
 
-		General Assembly, which started in New York as a startup incubator, now offers
+		<p>General Assembly, which started in New York as a startup incubator, now offers
 		classes and workshops in technology, design, and entrepreneurship, with campuses
-		around the world in:
+		around the world in:</p>
 
-		Berlin
-		Boston
-		Hong Kong
-		London
-		Los Angeles
-		New York City
-		San Francisco
-		Sydney
-		Washington D.C
-
-		For more information, visit General Assembly's website.
+		<ul>
+			<li>Berlin</li>
+			<li>Boston</li>
+			<li>Hong Kong</li>
+			<li>London</li>
+			<li>Los Angeles</li>
+			<li>New York City</li>
+			<li>San Francisco</li>
+			<li>Sydney</li>
+			<li>Washington D.C</li>
+		</ul>
+		
+		<p>For more information, visit General Assembly's website.</p> -->
 	</body>
 </html>
